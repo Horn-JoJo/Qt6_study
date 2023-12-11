@@ -18,4 +18,5 @@ int main(int argc, char *argv[])
     return a.exec();
     //如何不论写什么代码，程序都不会执行到，因此前一句是return了！！！
     std::cout << "hello QT6 world!!!" << std::endl;
+    std::cout << "hello QT6 world!!!" << std::endl;
 }
